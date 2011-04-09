@@ -1,5 +1,4 @@
 
-jSQLCommands is a wrapper for SQL commands that encapsulates tables and field names from 
-reading the database schema. Changing table/field names in the database will cause compile 
-time errors in any code using the changed names.
+jSQLCommands is a wrapper for SQL commands that encapsulates differences in databases
+SQL syntax.
 
